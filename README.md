@@ -4,7 +4,7 @@ This is the instruction for web developer intern assignment at [Golden Owl](http
 
 ![Screenshot](./screenshots/screenshot.jpg)
 
-[Live Demo](https://golden-shoe-live-example.herokuapp.com)
+[Live Demo](https://gshoes.vercel.app)
 
 # Requirements
 
@@ -23,7 +23,7 @@ Your application should have at least features in [Must have](#must-have), thing
   - Show total price of all products in car. When user increase/decrease product's amount or remove product, total price should be re-calculate correctly.
   - When there are no products in cart, we should show `Your cart is empty` message.
   - Products in cart should be persistent: When user visit the application, products are added before should be showed, user don't need to add products again.
-- UI must follow correctly design from [live demo](https://golden-shoe-live-example.herokuapp.com).
+- UI must follow correctly design from [live demo](https://gshoes.vercel.app).
 
 ### Nice to have:
 
